@@ -15,3 +15,22 @@ This repository contains projects demonstrating the use of top Python libraries:
 | **Scikit-Learn** | Advanced      | House Price Prediction with Random Forest   | Predict house prices using Random Forest and tune hyperparameters.       | Feature engineering, model tuning (GridSearchCV), regression analysis | [House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Regression, hyperparameter tuning, R², MSE evaluation |
 
 
+
+
+## Libraries and Projects
+
+### 1. **Pandas Projects**
+- [ ] **Basic**: Titanic Dataset Analysis
+- [ ] **Intermediate**: Data Cleaning with Pandas
+- [ ] **Advanced**: Building a DataFrame Pipeline
+
+### 2. **NumPy Projects**
+- [ ] **Basic**: Array Manipulation and Operations
+- [ ] **Intermediate**: Linear Algebra with NumPy
+- [ ] **Advanced**: Random Walk Simulation
+
+### 3. **Matplotlib/Seaborn Projects**
+- [ ] **Basic**: Basic Data Visualization (Bar, Line, Pie Charts)
+- [ ] **Intermediate**: Advanced Visualizations (Heatmaps, Pairplots)
+- [ ] **Advanced**: Interactive Dashboards with Matplotlib
+
