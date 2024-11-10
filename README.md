@@ -34,3 +34,24 @@ This repository contains projects demonstrating the use of top Python libraries:
 - [ ] **Intermediate**: Advanced Visualizations (Heatmaps, Pairplots)
 - [ ] **Advanced**: Interactive Dashboards with Matplotlib
 
+
+# Movie Review Sentiment Analysis
+
+This project involves sentiment analysis on the IMDB dataset of movie reviews using various supervised learning algorithms.
+
+## Dataset
+The dataset used in this project can be found on Kaggle: [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+
+## Project Overview
+- Implemented multiple algorithms including Logistic Regression, Random Forest, SVM, KNN, and Decision Tree.
+- Conducted Exploratory Data Analysis (EDA) and feature engineering to preprocess the text data.
+
+## Results
+The Logistic Regression model performed the best with an accuracy of approximately 89%.
+
+## Installation
+To run this project, you need to install the following dependencies:
+- pandas
+- scikit-learn
+- wordcloud
+- matplotlib
