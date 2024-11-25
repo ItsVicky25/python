@@ -20,7 +20,7 @@ This repository contains projects demonstrating the use of top Python libraries:
 ## Libraries and Projects
 
 ### 1. **Pandas Projects**
-- [ +] **Basic**: Titanic Dataset Analysis
+- [*] **Basic**: Titanic Dataset Analysis
 - [ ] **Intermediate**: Data Cleaning with Pandas
 - [ ] **Advanced**: Building a DataFrame Pipeline
 
